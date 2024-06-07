@@ -1,4 +1,4 @@
-# deckofcards
+ deckofcards
 An API to simulate a deck of cards
 
 The docs are on http://deckofcardsapi.com
@@ -33,3 +33,14 @@ Docker
 docker build -t deckofcards .
 docker run -p 8000:8000 -d deckofcards:latest
 ```
+
+
+# AMcNeil
+Practice repository for Dev Sec Ops warfighter course
+
+my name jeff
+
+i am the captain now
+
+Laser cats 4 life
+
